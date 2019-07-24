@@ -1,0 +1,17 @@
+Requisitos:
+
+-Net Framework 4.6
+-Chrome v74
+-Service Pack 1
+
+Informações:
+
+Quantidade total de mensagens: Total de mensagens que serão enviadas (
+Quantidade de mensagens/Pausa: Quantidade de mensagens que serão enviadas antes da pausa programada
+Tempo de pausa: Tempo que o programa ficará parado após atingir o numero de mensagens/Pausa.
+Mensagem: A mensagem poderá ser digitada na propria interface ou proveniente de um arquivo de extensão ".txt".
+Procurar arquivo: Deverá ser importada para o sistema, uma lista de contatos que receberão as mensagens, este arquivo deverá estar em formato ".txt".
+Após concluir as configurações, clique em iniciar para começar o envio das mensagens.
+Não nos responsabilizamos por bloqueio de numeros, para evitar tal feito, efetue o processo de maturação do numero, enviando poucas mensagens e progredindo com o tempo.
+Após a conclusão do envio das mensagens, o programa fechará e será gerado um arquivo ".txt" de log na pasta raiz da instalação.
+Obrigado por adiquirir nosso produto!!

@@ -1,0 +1,60 @@
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\whatsappBot.exe.config
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\whatsappBot.exe
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\whatsappBot.pdb
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\MMLib.Core.dll
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\MMLib.Extensions.dll
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\Mono.HttpUtility.dll
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\WebDriver.dll
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\MMLib.Core.pdb
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\MMLib.Core.xml
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\MMLib.Extensions.pdb
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\MMLib.Extensions.xml
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\WebDriver.xml
+E:\Projects\C#\whatsappBot\whatsappBot\obj\Release\whatsappBot.csprojAssemblyReference.cache
+E:\Projects\C#\whatsappBot\whatsappBot\obj\Release\whatsappBot.Form1.resources
+E:\Projects\C#\whatsappBot\whatsappBot\obj\Release\whatsappBot.Properties.Resources.resources
+E:\Projects\C#\whatsappBot\whatsappBot\obj\Release\whatsappBot.csproj.GenerateResource.cache
+E:\Projects\C#\whatsappBot\whatsappBot\obj\Release\whatsappBot.csproj.CoreCompileInputs.cache
+E:\Projects\C#\whatsappBot\whatsappBot\obj\Release\whatsappBot.csproj.CopyComplete
+E:\Projects\C#\whatsappBot\whatsappBot\obj\Release\whatsappBot.exe
+E:\Projects\C#\whatsappBot\whatsappBot\obj\Release\whatsappBot.pdb
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\Microsoft.IdentityModel.Logging.dll
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\Newtonsoft.Json.dll
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\Twilio.dll
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\Microsoft.IdentityModel.Tokens.xml
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\Newtonsoft.Json.xml
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\Twilio.xml
+E:\Projects\C#\whatsappBot\whatsappBot\bin\Release\SeleniumExtras.WaitHelpers.dll
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\whatsappBot.exe.config
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\whatsappBot.exe
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\whatsappBot.pdb
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\Microsoft.IdentityModel.Logging.dll
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\MMLib.Core.dll
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\MMLib.Extensions.dll
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\Mono.HttpUtility.dll
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\Newtonsoft.Json.dll
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\SeleniumExtras.WaitHelpers.dll
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\Twilio.dll
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\WebDriver.dll
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\Microsoft.IdentityModel.Tokens.xml
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\MMLib.Core.pdb
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\MMLib.Core.xml
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\MMLib.Extensions.pdb
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\MMLib.Extensions.xml
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\Newtonsoft.Json.xml
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\Twilio.xml
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\bin\Release\WebDriver.xml
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\obj\Release\whatsappBot.csprojAssemblyReference.cache
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\obj\Release\whatsappBot.Form1.resources
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\obj\Release\whatsappBot.Properties.Resources.resources
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\obj\Release\whatsappBot.csproj.GenerateResource.cache
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\obj\Release\whatsappBot.csproj.CoreCompileInputs.cache
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\obj\Release\whatsappBot.csproj.CopyComplete
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\obj\Release\whatsappBot.exe
+E:\Projects\C#\whatsappBot\whatsappBot - Backup 21-06-2019\obj\Release\whatsappBot.pdb
